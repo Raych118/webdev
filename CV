@@ -1,0 +1,38 @@
+body{
+    color: brown;
+}
+
+.box-1{
+    border: 5px tan solid;
+    
+}
+
+.container{
+    width:80%;
+    margin: auto;
+}
+
+.box-2{
+    border-top: 5px tan solid;
+    background-color: wheat;
+    border-bottom: 5px tan solid;
+}
+
+.box-3{
+    border-bottom: 5px tan solid;
+}
+
+.box-4{
+    border-bottom: 5px tan solid;
+}
+
+.box-5{
+    border-bottom: 5px tan solid;
+}
+
+.box-6{
+    padding-left: 50px;
+    padding-top: 50px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
